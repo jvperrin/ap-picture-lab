@@ -2,9 +2,9 @@
 
 #### Questions
 
-1.
-2.
-3.
+1. 8 bits
+2. 3 bytes
+3. 307200 pixels
 
 
 ## A2: Picking a color
