@@ -22,18 +22,13 @@
 
 #### Questions
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-
-#### Exercises
-
-1.
-2.
+1. 0
+2. 0
+3. 639
+4. 479
+5. Top to bottom
+6. Left to right
+7. Yes, I see lots of "squares of color" in the pixelated image.
 
 
 ## A4: Two-dimensional arrays in Java
