@@ -35,10 +35,7 @@
 
 #### Exercises
 
-1.
-2.
-3.
-
+[Completed, see IntArrayWorker class]
 
 ## A5: Modifying a picture
 
