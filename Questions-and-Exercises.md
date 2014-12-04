@@ -41,13 +41,13 @@
 
 #### Questions
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
+1. No, the method is not there.
+2. Yes, the method is there.
+3. No, it does not compile.
+4. Yes
+5. Yes
+6. Yes
+7. No
 
 #### Exercises
 

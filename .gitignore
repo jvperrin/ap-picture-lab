@@ -1,3 +1,4 @@
 classes/*.class
 classes/*.ctxt
 classes/package.bluej
+classes/doc/*
